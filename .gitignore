@@ -1,0 +1,9 @@
+# Ignore massive datasets that exceed GitHub's 100MB limit
+reference/crimes_merged_2015_2025.csv
+reference/asylum claims.xlsx
+reference/consumer inflation.xlsx
+reference/crimes 2015 to 2020.xlsx
+reference/crimes 21 to 25.xlsx
+reference/visas overall.xlsx
+reference/visas to structure.xlsx
+reference/Price Index UK.csv
